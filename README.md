@@ -133,7 +133,7 @@ Confira meus principais projetos no GitHub:
 </p>
 
 <br/>
-<br/>
+
 ---
 
 ## 📫 Contato

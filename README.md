@@ -28,7 +28,7 @@ Tenho grande interesse em tecnologia, desenvolvimento de software e cybersecurit
             src="https://custom-icon-badges.demolab.com/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/">
+    <a href="https://www.linkedin.com/in/lucas-lima-6237243b3/">
         <img 
             alt="LinkedIn" 
             title="Meu perfil no LinkedIn" 

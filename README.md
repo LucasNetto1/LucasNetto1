@@ -120,15 +120,7 @@ Confira meus principais projetos no GitHub:
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=LucasNetto1&theme=tokyonight"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=LucasNetto1&theme=tokyo-night"
-    alt="Gráfico de Atividade"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasNetto1&theme=tokyonight"
   />
 </p>
 

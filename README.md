@@ -150,5 +150,5 @@ Confira meus principais projetos no GitHub:
 
 - 📧 **lucas.lima76812@gmail.com**
 - 📍 **Americana - SP**
-- 💼 **LinkedIn:** Adicione seu link aqui
+- 💼 **LinkedIn:** https://www.linkedin.com/in/lucas-lima-6237243b3/
 - 🐙 **GitHub:** https://github.com/LucasNetto1

@@ -134,13 +134,6 @@ Confira meus principais projetos no GitHub:
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 ---
 
 ## 📫 Contato

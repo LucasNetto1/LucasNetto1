@@ -116,7 +116,7 @@ Confira meus principais projetos no GitHub:
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📈 Contribuições
 
 <p align="center">
   <img

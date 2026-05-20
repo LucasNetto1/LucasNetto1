@@ -96,7 +96,7 @@ Tenho grande interesse em tecnologia, desenvolvimento de software e cybersecurit
 
 Confira meus principais projetos no GitHub:
 
-- 🔐 Projetos voltados para segurança cibernética
+- 🔐 Projetos pensados na segurança dos dados
 - 🌐 Aplicações web com HTML, CSS e JavaScript
 - ⚙️ APIs e aplicações back-end
 - 🗄️ Projetos com banco de dados e persistência de dados
